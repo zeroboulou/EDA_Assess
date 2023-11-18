@@ -15,7 +15,6 @@ NumNets 6
 Net N1 2
 Pin C1
 Pin C2
-Pin C2
 Net N2 3
 Pin C2
 Pin C3
